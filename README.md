@@ -67,6 +67,6 @@ The Rolodex Management System is a Java-based console application designed to he
 - The Contacts table will be created automatically when the application starts
   
 ## Link to Project
-https://github.com/layjen6644/rolodex-contact-manager
+https://github.com/layjen6644/rolodex-management-system
 ## License
 This project was created as part of an assignment at ECPI for educational purposes. No license was required.
